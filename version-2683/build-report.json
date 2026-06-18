@@ -1,0 +1,26 @@
+{
+  "movie_records_parsed": 2000,
+  "detail_pages_generated": 2000,
+  "category_pages_generated": 12,
+  "html_pages_total": 2016,
+  "html_pages_with_baidu_script": 2016,
+  "missing_baidu_script": [],
+  "category_coverage_count": 2000,
+  "category_counts": {
+    "collection-01": 167,
+    "collection-02": 167,
+    "hot-list-01": 167,
+    "hot-list-02": 167,
+    "recommended-01": 167,
+    "recommended-02": 167,
+    "updates-01": 167,
+    "updates-02": 167,
+    "archive-01": 166,
+    "archive-02": 166,
+    "topic-01": 166,
+    "topic-02": 166
+  },
+  "logo_name": "日韩精选电影",
+  "hls_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+  "cover_rule": "X = ((N - 1) % 150) + 1"
+}
